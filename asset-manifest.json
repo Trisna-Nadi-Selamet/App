@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.599a7801.chunk.css",
+    "main.js": "/static/js/main.f52a883d.chunk.js",
+    "main.js.map": "/static/js/main.f52a883d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b4cb823c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b4cb823c.js.map",
+    "static/js/2.7aef069a.chunk.js": "/static/js/2.7aef069a.chunk.js",
+    "static/js/2.7aef069a.chunk.js.map": "/static/js/2.7aef069a.chunk.js.map",
+    "static/js/3.881a3734.chunk.js": "/static/js/3.881a3734.chunk.js",
+    "static/js/3.881a3734.chunk.js.map": "/static/js/3.881a3734.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.599a7801.chunk.css.map": "/static/css/main.599a7801.chunk.css.map",
+    "static/js/2.7aef069a.chunk.js.LICENSE.txt": "/static/js/2.7aef069a.chunk.js.LICENSE.txt",
+    "static/media/AboutImg.2e579e7b.jpg": "/static/media/AboutImg.2e579e7b.jpg",
+    "static/media/Contact.1d486bd0.png": "/static/media/Contact.1d486bd0.png",
+    "static/media/Dexcel.aa5b0e55.jpg": "/static/media/Dexcel.aa5b0e55.jpg",
+    "static/media/Home1.0a529209.jpeg": "/static/media/Home1.0a529209.jpeg",
+    "static/media/Login.be44ee82.jpg": "/static/media/Login.be44ee82.jpg",
+    "static/media/Pengabdian.c0bff21a.jpg": "/static/media/Pengabdian.c0bff21a.jpg",
+    "static/media/Pengabdian2.4bb9332f.jpeg": "/static/media/Pengabdian2.4bb9332f.jpeg",
+    "static/media/Server01.11b58b13.jpg": "/static/media/Server01.11b58b13.jpg",
+    "static/media/Training.bc545367.jpg": "/static/media/Training.bc545367.jpg",
+    "static/media/token.30918311.jpg": "/static/media/token.30918311.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4cb823c.js",
+    "static/js/2.7aef069a.chunk.js",
+    "static/css/main.599a7801.chunk.css",
+    "static/js/main.f52a883d.chunk.js"
+  ]
+}
